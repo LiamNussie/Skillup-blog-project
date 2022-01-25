@@ -1,0 +1,27 @@
+.user {
+    padding: 1rem 2rem;
+
+    h1 {
+        color: rgb(33, 33, 146);
+        margin-bottom: 30px;
+        font-size: 30px;
+    }
+
+    .postlist {
+
+        .post {
+            margin: 10px auto;
+            padding: 1rem;
+            box-shadow: 2px 4px 10px rgb(161, 161, 161);
+        
+            h3 {
+                color: rgb(14, 14, 80);
+                margin-bottom: 10px;
+                font-size: 22px;
+            }
+            p {
+                
+            }
+        }
+    }
+}
